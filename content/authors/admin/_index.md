@@ -1,4 +1,4 @@
-+++
+---
 # Display name
 name: Junjie Lian
 
@@ -41,7 +41,7 @@ education:
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-#social:
+social:
 - icon: envelope
   icon_pack: fas
  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
@@ -68,7 +68,7 @@ email: ""
 user_groups:
 - Researchers
 - Visitors
-+++
+---
 
 Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
