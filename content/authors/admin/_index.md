@@ -27,10 +27,10 @@ interests:
 
 education:
   courses:
-  - course: MA.Sc in Communications and Information System, 
+  - course: MA.Sc in Communications and Information System
     institution: Shanghai University
     year: 2021
-  - course: B.S in Electronic Information Engineering, 
+  - course: B.S in Electronic Information Engineering 
     institution: Jiangsu University Of Science And Technology
     year: 2018
 
